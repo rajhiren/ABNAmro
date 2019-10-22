@@ -1,0 +1,36 @@
+language: perl
+
+perl:
+  - "5.16"
+  
+matrix:
+  include:
+    - perl: 5.16
+      env: COVERAGE=1  
+  allow_failures:
+    - perl: blead       # ignore failures for blead perl
+      env: VERBOSE=1
+      
+before_install:
+    - git clone git://github.com/haarg/perl-travis-helper
+    - source perl-travis-helper/init
+    - build-perl
+    - perl -V
+        
+install:
+    - cpanm --quiet --notest Devel::Cover::Report::Coveralls
+    - cpanm --quiet --notest Log::Log4perl   Data::Dumper  Modern::Perl  Log::Log4perl::Level Carp Text::CSV  Test::More  Test::Exception
+
+script:
+    - PERL5OPT=-MDevel::Cover=-ignore,"t/",+ignore,"prove",-coverage,statement,branch,condition,path,subroutine prove -lrs t
+    - cover
+
+after_success:
+    - cover -report coveralls
+    
+service_name: travis-pro
+repo_token: rsYlkkkmrVcrBY9H8uhJ8B42xN6O7jpqS
+
+sudo: false
+notifications:
+  email: false
