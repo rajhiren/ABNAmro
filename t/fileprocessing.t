@@ -38,4 +38,5 @@ subtest "Testing generate_daily_report_csv() method" => sub {
   is($file_processing->generate_daily_report_csv(@daily_summary), 1 , "test Emptry array gives return 0");
 };
 
+#-- we are done now
 done_testing();
