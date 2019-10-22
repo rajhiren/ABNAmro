@@ -18,7 +18,7 @@ before_install:
     - perl -V
         
 install:
-    - cpanm --quiet --notest Devel::Cover::Report::Coveralls
+    - cpanm --quiet --notest Devel::Cover   Devel::Cover::Report::Coveralls
     - cpanm --quiet --notest Log::Log4perl   Data::Dumper  Modern::Perl  Log::Log4perl::Level Carp Text::CSV  Test::More  Test::Exception
 
 script:
