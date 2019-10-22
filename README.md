@@ -5,6 +5,8 @@ ABN Amro tech test submission
 
 # you need to have following perl modules installed :
 
+    Copy `ABNAmro` in `/usr/local/share/perl5/`
+
     use "cpanm to install following cpan modules"
     1.  Data::Dumper;
     2.  Text::CSV;
