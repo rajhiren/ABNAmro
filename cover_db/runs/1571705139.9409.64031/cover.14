@@ -1,0 +1,1 @@
+{"runs":{"1571705139.9409.64031":{"collected":["branch","condition","statement","subroutine"],"start":1571705138.8907,"vec":{},"digests":{"/usr/bin/prove":"af5c96e9a303e2111f00ce8aaa0d8d51"},"finish":1571705139.34179,"version":null,"name":null,"run":"/usr/bin/prove","perl":"5.26.1","count":{},"dir":"/home/raj/raj/CPAN/ABNAmro-FileProcessing","OS":"linux"}}}

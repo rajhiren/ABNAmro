@@ -1,0 +1,135 @@
+[3] 2019/08/25 11:41:11 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[3] 2019/08/25 11:41:23 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[3] 2019/08/25 11:41:26 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[3] 2019/08/25 11:41:26 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[8] 2019/08/25 11:41:26 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[3] 2019/08/25 11:43:06 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[3] 2019/08/25 11:43:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[3] 2019/08/25 11:43:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[8] 2019/08/25 11:43:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[4] 2019/08/25 11:43:53 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:43:53 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[8] 2019/08/25 11:43:53 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[3] 2019/08/25 11:44:05 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[3] 2019/08/25 11:44:05 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[8] 2019/08/25 11:44:05 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[2] 2019/08/25 11:44:05 ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - Log this message for Tests
+[3] 2019/08/25 11:44:05 ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - Log this message for Tests
+[4] 2019/08/25 11:44:05 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Log this message for Tests
+[4] 2019/08/25 11:48:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:48:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[9] 2019/08/25 11:48:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[10] 2019/08/25 11:48:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[10] 2019/08/25 11:48:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[14] 2019/08/25 11:48:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[3] 2019/08/25 11:48:29 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:48:29 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[8] 2019/08/25 11:48:29 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[10] 2019/08/25 11:48:29 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[10] 2019/08/25 11:48:29 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[14] 2019/08/25 11:48:29 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[3] 2019/08/25 11:49:11 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:49:11 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[8] 2019/08/25 11:49:11 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[9] 2019/08/25 11:49:11 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[10] 2019/08/25 11:49:11 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[14] 2019/08/25 11:49:11 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[4] 2019/08/25 11:49:32 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:49:32 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[9] 2019/08/25 11:49:32 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[3] 2019/08/25 11:49:54 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:49:54 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[4] 2019/08/25 11:49:54 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:49:54 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[9] 2019/08/25 11:49:54 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[3] 2019/08/25 11:50:07 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:50:07 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[5] 2019/08/25 11:50:07 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[5] 2019/08/25 11:50:07 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[9] 2019/08/25 11:50:07 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[3] 2019/08/25 11:50:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[3] 2019/08/25 11:50:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[4] 2019/08/25 11:50:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:50:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[8] 2019/08/25 11:50:16 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[3] 2019/08/25 11:52:31 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:52:31 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[4] 2019/08/25 11:52:31 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:52:31 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[8] 2019/08/25 11:52:31 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[3] 2019/08/25 11:54:18 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:54:18 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[4] 2019/08/25 11:54:18 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:54:18 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[9] 2019/08/25 11:54:18 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[11] 2019/08/25 11:54:18 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - atleast there is one row to create output file
+[4] 2019/08/25 11:54:27 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:54:27 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[4] 2019/08/25 11:54:27 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:54:27 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[8] 2019/08/25 11:54:27 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[3] 2019/08/25 11:54:32 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[3] 2019/08/25 11:54:32 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[4] 2019/08/25 11:54:32 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:54:32 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[9] 2019/08/25 11:54:32 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[4] 2019/08/25 11:54:47 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:54:47 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[4] 2019/08/25 11:54:47 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:54:47 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[9] 2019/08/25 11:54:47 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[10] 2019/08/25 11:54:47 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - atleast there is one row to create output file
+[3] 2019/08/25 11:56:00 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:56:00 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[4] 2019/08/25 11:56:00 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[4] 2019/08/25 11:56:00 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[9] 2019/08/25 11:56:00 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[11] 2019/08/25 11:56:00 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - atleast there is one row to create output file
+[0] 2019/08/25 11:56:26 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[0] 2019/08/25 11:56:26 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[5] 2019/08/25 11:56:26 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[5] 2019/08/25 11:56:26 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - We have processed the file and stored data in daily_summary array
+[5] 2019/08/25 11:56:26 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - total records processed 717
+[5] 2019/08/25 11:56:26 ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - atleast there is one row to create output file
+[0] 2019/10/22 11:12:16 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - please pass Input File
+[2] 2019/10/22 11:43:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[1] 2019/10/22 11:43:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - Log this message for Tests
+[2] 2019/10/22 11:43:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - Log this message for Tests
+[3] 2019/10/22 11:43:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Log this message for Tests
+[1] 2019/10/22 11:43:49 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[0] 2019/10/22 11:43:49 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - Log this message for Tests
+[1] 2019/10/22 11:43:49 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - Log this message for Tests
+[1] 2019/10/22 11:43:49 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Log this message for Tests
+[1] 2019/10/22 11:43:57 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[1] 2019/10/22 11:44:03 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[1] 2019/10/22 11:45:08 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[1] 2019/10/22 11:45:08 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[1] 2019/10/22 11:45:08 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[1] 2019/10/22 11:45:08 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[3] 2019/10/22 11:45:08 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[4] 2019/10/22 11:45:08 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - atleast there is one row to create output file
+[2] 2019/10/22 11:45:16 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[2] 2019/10/22 11:45:16 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[2] 2019/10/22 11:45:16 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[2] 2019/10/22 11:45:16 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[4] 2019/10/22 11:45:16 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[5] 2019/10/22 11:45:16 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - atleast there is one row to create output file
+[0] 2019/10/22 11:45:16 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - Log this message for Tests
+[1] 2019/10/22 11:45:16 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - Log this message for Tests
+[1] 2019/10/22 11:45:16 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Log this message for Tests
+[2] 2019/10/22 11:45:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[3] 2019/10/22 11:45:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[3] 2019/10/22 11:45:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[3] 2019/10/22 11:45:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[7] 2019/10/22 11:45:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[9] 2019/10/22 11:45:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - atleast there is one row to create output file
+[2] 2019/10/22 11:45:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - Log this message for Tests
+[3] 2019/10/22 11:45:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - Log this message for Tests
+[3] 2019/10/22 11:45:39 /home/raj/raj/CPAN/ABNAmro-FileProcessing/lib/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Log this message for Tests
+[0] 2019/10/22 11:46:29 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger ERROR - please pass Input File
+[0] 2019/10/22 11:46:33 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[0] 2019/10/22 11:46:33 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[2] 2019/10/22 11:46:33 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[2] 2019/10/22 11:46:33 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - We have processed the file and stored data in daily_summary array
+[2] 2019/10/22 11:46:33 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - total records processed 717
+[2] 2019/10/22 11:46:33 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - atleast there is one row to create output file
