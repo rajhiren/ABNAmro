@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/rajhiren/ABNAmro.svg?branch=master)](https://travis-ci.org/rajhiren/ABNAmro)
-[![Coverage Status](https://coveralls.io/repos/github/rajhiren/ABNAmro/badge.svg)](https://coveralls.io/github/rajhiren/ABNAmro)
+[![Coverage Status](https://coveralls.io/repos/github/rajhiren/ABNAmro/badge.svg?branch=%28HEAD+detached+at+9f1a535%29)](https://coveralls.io/github/rajhiren/ABNAmro?branch=%28HEAD+detached+at+9f1a535%29)
 
 # ABN-Amro.
 ABN Amro tech test submission
