@@ -133,3 +133,9 @@
 [2] 2019/10/22 11:46:33 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - We have processed the file and stored data in daily_summary array
 [2] 2019/10/22 11:46:33 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - total records processed 717
 [2] 2019/10/22 11:46:33 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - atleast there is one row to create output file
+[0] 2019/10/22 12:38:23 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - Initializing reading of file now
+[0] 2019/10/22 12:38:23 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - lets start processing of file now
+[1] 2019/10/22 12:38:23 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - processing finished and data is stored in array
+[2] 2019/10/22 12:38:23 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - We have processed the file and stored data in daily_summary array
+[2] 2019/10/22 12:38:23 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - total records processed 717
+[2] 2019/10/22 12:38:23 /usr/local/share/perl/5.26.1/ABNAmro/Logger.pm 50 ABNAmro.Logger INFO - atleast there is one row to create output file
